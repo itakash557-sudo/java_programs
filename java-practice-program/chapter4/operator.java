@@ -5,7 +5,7 @@ public class operator{
         int b=20;
         int c=30;
         int d=40;
-        int f='a';
+        int f='a'; //char internally wrks as a numeric
 
         //arithmatic operator
         System.out.println(a+b); //addition
@@ -44,4 +44,5 @@ public class operator{
         System.out.println(var);
     }
 }
+
 
