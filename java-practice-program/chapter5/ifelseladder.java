@@ -1,4 +1,6 @@
-class ifelseladder{   //used for multiple condition
+class ifelseladder{   //used for multiple condition 
+    // voting system
+    
     public static void main(String[]args)
     {
         System.out.println("if-elseif-else ladder");
@@ -15,3 +17,4 @@ class ifelseladder{   //used for multiple condition
 
     }
 }
+
