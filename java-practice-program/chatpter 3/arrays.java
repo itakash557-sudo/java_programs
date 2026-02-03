@@ -13,6 +13,6 @@ public class arrays //Array program
         // {
         //     System.out.println(value);//foreach loop
         // }
-
     }
 }
+
