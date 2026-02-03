@@ -1,2 +1,2 @@
-# java_programs
-practice java 
+# java-practice-program
+This repository contains Java practice programs covering core Java concepts, logic building and beginner level problem solving ...
