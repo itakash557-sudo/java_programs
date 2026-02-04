@@ -26,7 +26,7 @@ public class switchstatement{
             
         }
 
-        //switch accept short
+        //switch accept short datatype
 
         short b=30_000;
         switch(b){
